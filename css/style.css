@@ -1,0 +1,17 @@
+body {
+	margin: 0 auto;
+	height: 100%;
+}
+
+#intro{
+	background-color: #101010;
+	margin: auto;
+	height: 100vh;
+	display: table;
+	width: 100%;
+}
+
+#intro canvas{
+	position: absolute;
+	padding: none;
+}
